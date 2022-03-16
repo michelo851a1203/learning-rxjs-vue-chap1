@@ -8,6 +8,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@types/rx": "^4.1.2",
+    "rxjs": "^7.5.5",
     "vite-plugin-windicss": "^1.8.3",
     "vue": "^3.2.25",
     "windicss": "^3.5.1"
